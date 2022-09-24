@@ -1,0 +1,8 @@
+.title {
+  background-color: rgb(31, 168, 168);
+  color: gray;
+  padding: 4rem;
+  height: 350px;
+  width: 100vh;
+  box-shadow: 5px slategrey;
+}
